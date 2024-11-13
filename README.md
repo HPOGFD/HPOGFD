@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Budget Website Application](https://github.com/HPOpersonalProjects/BudgetApp.git)
 
-- 🌱 I’m currently learning **TypeScript, SQL, React, MySQl, MongoDB, AMS basic, GitHub, Python.**
+- 🌱 I’m currently learning **TypeScript, SQL, React, MySQl, MongoDB, AWS basic, GitHub, Python.**
 
 - 🤝 I’m looking for help with [Shopping Website App](https://github.com/HPOpersonalProjects/ShoppingApp.git)
 
