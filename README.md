@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Harry P. Oyarvide!</h1>
-<h3 align="center">I'm an electrical engineer with a growing passion for full-stack web development. Currently based in Connecticut, I'm expanding my skills to become a back-end developer, specializing in data engineering and cloud computing with AWS is my ultimate goal. Here's a bit about me and my exciting journey:</h3>
+<h3 align="center">I'm an electrical engineer with a growing passion for full-stack web development. Currently based in Connecticut, I'm expanding my skills to become a full-stack developer, specializing in data engineering and cloud computing with AWS. Here's a bit about me and my exciting journey:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hpogfd&label=Profile%20views&color=0e75b6&style=flat" alt="hpogfd" /> </p>
 
