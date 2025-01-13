@@ -30,9 +30,9 @@ I'm looking for like-minded developers to learn, build, and create innovative ap
 ---
 
 ### 🧠 About Me
-- 💡 **Hobbies**: Avid reader of science fiction books 🌌 
+- 💡 **Hobbies**: I’m a big fan of science fiction books and absolutely love spending time outdoors enjoying different activities! 🌌 
 - 💬 **Ask Me About**: HTML, CSS, JavaScript, Node.js, and Visual Studio Code 
-- 📫 **Reach Out**: poyarvide87@yahoo.com
+- 📫 **Reach Out**: poyarvide87@gmail.com
 
 ---
 
